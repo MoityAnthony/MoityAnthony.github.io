@@ -792,6 +792,49 @@
 .GSBPHP{
     margin-right: 8%;
 }
+
+.GSBPHP img,.GSBPHP .caption{
+    border: 1px solid ;
+    border-top-right-radius: 40px 40px;
+    border-bottom-right-radius: 40px 40px;
+    border-top-left-radius: 40px 40px;
+    border-bottom-left-radius: 40px 40px;
+}
+.GSBJAVA img,.GSBJAVA .caption{
+    border: 1px solid ;
+    border-top-right-radius: 40px 40px;
+    border-bottom-right-radius: 40px 40px;
+    border-top-left-radius: 40px 40px;
+    border-bottom-left-radius: 40px 40px;
+}
+.EditCalc img,.EditCalc .caption{
+    border: 1px solid ;
+    border-top-right-radius: 40px 40px;
+    border-bottom-right-radius: 40px 40px;
+    border-top-left-radius: 40px 40px;
+    border-bottom-left-radius: 40px 40px;
+}
+.Puissance4 img,.Puissance4 .caption{
+    border: 1px solid ;
+    border-top-right-radius: 40px 40px;
+    border-bottom-right-radius: 40px 40px;
+    border-top-left-radius: 40px 40px;
+    border-bottom-left-radius: 40px 40px;
+}
+.Wordpress img,.Wordpress .caption{
+    border: 1px solid ;
+    border-top-right-radius: 40px 40px;
+    border-bottom-right-radius: 40px 40px;
+    border-top-left-radius: 40px 40px;
+    border-bottom-left-radius: 40px 40px;
+}
+.FEN img,.FEN .caption{
+    border: 1px solid ;
+    border-top-right-radius: 40px 40px;
+    border-bottom-right-radius: 40px 40px;
+    border-top-left-radius: 40px 40px;
+    border-bottom-left-radius: 40px 40px;
+}
 @media screen and (max-width: 736px)
 {
     .masthead{
@@ -853,7 +896,8 @@
         margin-top: 5%;
     }
     .Projet .GSBPHP{
-        margin-right: 8%;
+        padding:30px;
+        margin-right: 0px;
     }
     .Projet .GSB .caption{
         width: 275px;
